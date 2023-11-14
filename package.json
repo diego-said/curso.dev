@@ -4,6 +4,7 @@
   "description": "Stuff that I am doing for the course https://curso.dev",
   "main": "index.js",
   "scripts": {
+    "dev": "next dev",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
